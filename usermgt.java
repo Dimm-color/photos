@@ -1,5 +1,5 @@
 #!/bin/bash
-ihu
+mercy
 oy
 nene
 onyx
