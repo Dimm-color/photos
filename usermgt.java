@@ -3,3 +3,5 @@ ihu
 oy
 nene
 onyx
+opah
+fela
